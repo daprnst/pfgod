@@ -1,0 +1,28 @@
+
+
+@font-face {
+    font-family: "MyFontTest";
+    src: url(../fonts/pobeda-bold1.ttf);
+}
+
+
+*{
+    font-family: "MyFontTest";
+}
+
+p{
+    font-weight: 100;
+    font-size: 12pt;
+    font-style: italic;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 50pt;
+}
+
+menu{
+    background-color: #ff2a00; 
+        font-family: 'Amatic SC', cursive;
+        font-size: 100px;
+    }
